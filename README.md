@@ -1,2 +1,2 @@
 # hello-world
-This is only a test project to learn git commands.
+This file is different from the file in the master branch.
